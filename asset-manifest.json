@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/upcloud-mbs-deploy/static/css/main.7e076407.chunk.css",
+    "main.js": "/upcloud-mbs-deploy/static/js/main.d80d1266.chunk.js",
+    "main.js.map": "/upcloud-mbs-deploy/static/js/main.d80d1266.chunk.js.map",
+    "runtime-main.js": "/upcloud-mbs-deploy/static/js/runtime-main.5a62e5d0.js",
+    "runtime-main.js.map": "/upcloud-mbs-deploy/static/js/runtime-main.5a62e5d0.js.map",
+    "static/css/2.63b0c82a.chunk.css": "/upcloud-mbs-deploy/static/css/2.63b0c82a.chunk.css",
+    "static/js/2.c1da79eb.chunk.js": "/upcloud-mbs-deploy/static/js/2.c1da79eb.chunk.js",
+    "static/js/2.c1da79eb.chunk.js.map": "/upcloud-mbs-deploy/static/js/2.c1da79eb.chunk.js.map",
+    "index.html": "/upcloud-mbs-deploy/index.html",
+    "precache-manifest.967a005b1900245deab23494420df8c5.js": "/upcloud-mbs-deploy/precache-manifest.967a005b1900245deab23494420df8c5.js",
+    "service-worker.js": "/upcloud-mbs-deploy/service-worker.js",
+    "static/css/2.63b0c82a.chunk.css.map": "/upcloud-mbs-deploy/static/css/2.63b0c82a.chunk.css.map",
+    "static/css/main.7e076407.chunk.css.map": "/upcloud-mbs-deploy/static/css/main.7e076407.chunk.css.map",
+    "static/js/2.c1da79eb.chunk.js.LICENSE.txt": "/upcloud-mbs-deploy/static/js/2.c1da79eb.chunk.js.LICENSE.txt",
+    "static/media/Application.svg": "/upcloud-mbs-deploy/static/media/Application.d1b9f226.svg",
+    "static/media/Group294.svg": "/upcloud-mbs-deploy/static/media/Group294.4ea6e07e.svg",
+    "static/media/Hero.svg": "/upcloud-mbs-deploy/static/media/Hero.1d4a1915.svg",
+    "static/media/Information.svg": "/upcloud-mbs-deploy/static/media/Information.1a1cc404.svg",
+    "static/media/image2.jpg": "/upcloud-mbs-deploy/static/media/image2.be5beb9a.jpg",
+    "static/media/styles.css": "/upcloud-mbs-deploy/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a62e5d0.js",
+    "static/css/2.63b0c82a.chunk.css",
+    "static/js/2.c1da79eb.chunk.js",
+    "static/css/main.7e076407.chunk.css",
+    "static/js/main.d80d1266.chunk.js"
+  ]
+}
