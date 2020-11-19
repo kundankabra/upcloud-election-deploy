@@ -7,8 +7,8 @@ import hero from '../svg/Hero.svg';
 function Hero(){
     return(
         <div className="Hero_container">
-          <div className="row">
-            <div className=" col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="row align-items-center">
+            <div className="align-items-center  col-md-4 col-sm-4 col-xs-12">
                 <div className="Hero_firstcol">
                 <div className="Hero_first">Nima</div>
                 <div className="Hero_second"><span className="Hero_initial">M</span>utual</div>
@@ -17,7 +17,7 @@ function Hero(){
                 <button type="button" class="btn btn-link button">DOWNLOAD BROCHURE  <img className="Hero_arrowsvg"src={svg94}/></button>
             </div>
             </div>
-            <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
+            <div class="col-md-8 col-sm-8 col-xs-12">
               <div className="Hero_secondcol">
               <img  className="Hero_herosvg" src={hero} />
               </div>

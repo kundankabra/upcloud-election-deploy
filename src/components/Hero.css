@@ -1,4 +1,4 @@
- /* for semibold [poppins] font-family: 'Poppins', sans-serif;
+/* for semibold [poppins] font-family: 'Poppins', sans-serif;
 for thin [poppins] font-family: 'Poppins', sans-serif; */
 
 /* just introduced this, make changes in media queries accordingly */
@@ -73,18 +73,19 @@ for thin [poppins] font-family: 'Poppins', sans-serif; */
     .Hero_container{
         margin-left: 0 !important;
         margin-right: 0 !important;
-        padding-left: 5px;
+        padding-left: 15px;
         padding-right: 5px;
     }
     
     .Hero_firstcol{
-        margin-left: 30px;
-        margin-top: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        padding-top:70px;
     }
     .Hero_secondcol{
-        margin-left: 30px;
+        margin-left: 0px;
         margin-right: 20px;
-        margin-top: 84px;
+        margin-top: -7rem;
         padding-left: 0px;
     }
     .Hero_first{
@@ -92,6 +93,7 @@ for thin [poppins] font-family: 'Poppins', sans-serif; */
         font-size: 28px;
         font-family: 'Poppins', sans-serif;
         font-weight: 300 !important;
+        padding-left:1px;
     }
     .Hero_second{
         font-size: 40px;
@@ -105,9 +107,8 @@ for thin [poppins] font-family: 'Poppins', sans-serif; */
         color: #2541B2;
     }
     .Hero_herosvg{
-        height: auto;
-        width: 10rem;
-        margin-top: 1rem;
+        height:166.94px;
+        width:294.46px;
     }
     .Hero_arrowsvg{
         margin-left:10px;

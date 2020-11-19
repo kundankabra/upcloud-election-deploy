@@ -8,7 +8,7 @@ class Download extends React.Component {
 
   render() {
     return (
-
+    
       <div className="Download_container mobile-card-container">
       
       <div className="row text-center flex-nowrap flex-sm-wrap Download_row_styling">  
@@ -61,6 +61,7 @@ class Download extends React.Component {
         </div>
         </div>  
         </div>
+        
       
     );
   }

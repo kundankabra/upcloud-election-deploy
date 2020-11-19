@@ -2,13 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Hero from './components/Hero'
 import Download from './components/Download'
-import AboutUs from './components/AboutUs'
+import Slider from './components/Slider'
 
 ReactDOM.render(
   <React.StrictMode>
     <Hero />
     <Download />
-    <AboutUs />
+    <Slider />
   </React.StrictMode>,
   document.getElementById('root')
 );
