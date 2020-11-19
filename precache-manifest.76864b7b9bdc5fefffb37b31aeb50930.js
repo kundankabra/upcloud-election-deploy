@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2511e778a303e85e8eccc31ac31f30f",
+    "revision": "3c8aeec5d897124648e3023af4b57540",
     "url": "/upcloud-mbs-deploy/index.html"
   },
   {
-    "revision": "1357fdb08bd7a227670b",
+    "revision": "0393494bc15e064f3a85",
     "url": "/upcloud-mbs-deploy/static/css/2.63b0c82a.chunk.css"
   },
   {
-    "revision": "0df56f0688b5f50572d2",
-    "url": "/upcloud-mbs-deploy/static/css/main.7e076407.chunk.css"
+    "revision": "adc5f03545fdabfc16bd",
+    "url": "/upcloud-mbs-deploy/static/css/main.d6249ec6.chunk.css"
   },
   {
-    "revision": "1357fdb08bd7a227670b",
-    "url": "/upcloud-mbs-deploy/static/js/2.c1da79eb.chunk.js"
+    "revision": "0393494bc15e064f3a85",
+    "url": "/upcloud-mbs-deploy/static/js/2.535f7afc.chunk.js"
   },
   {
     "revision": "f5fc2afae58c4ffc30c6148864765d4b",
-    "url": "/upcloud-mbs-deploy/static/js/2.c1da79eb.chunk.js.LICENSE.txt"
+    "url": "/upcloud-mbs-deploy/static/js/2.535f7afc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0df56f0688b5f50572d2",
-    "url": "/upcloud-mbs-deploy/static/js/main.d80d1266.chunk.js"
+    "revision": "adc5f03545fdabfc16bd",
+    "url": "/upcloud-mbs-deploy/static/js/main.517e3039.chunk.js"
   },
   {
     "revision": "dd31fd1964cab58192fb",
@@ -44,8 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/upcloud-mbs-deploy/static/media/Information.1a1cc404.svg"
   },
   {
+    "revision": "dc1ab78287d81395db0e37fcae5ba737",
+    "url": "/upcloud-mbs-deploy/static/media/image1.dc1ab782.jpg"
+  },
+  {
     "revision": "be5beb9a750ebf66e551243a2c066b5e",
     "url": "/upcloud-mbs-deploy/static/media/image2.be5beb9a.jpg"
+  },
+  {
+    "revision": "253e97629eb7bd4a090dec307fc89199",
+    "url": "/upcloud-mbs-deploy/static/media/image3.253e9762.jpeg"
+  },
+  {
+    "revision": "5ef7bf272e4728e93e055310a0b8ca5c",
+    "url": "/upcloud-mbs-deploy/static/media/image4.5ef7bf27.jpeg"
+  },
+  {
+    "revision": "ab46202e6a8381f292e39e95e989ae51",
+    "url": "/upcloud-mbs-deploy/static/media/image5.ab46202e.jpeg"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
